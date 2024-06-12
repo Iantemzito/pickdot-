@@ -1,0 +1,26 @@
+body{
+    background-color: green;
+}
+/*bootstapgrid*/
+.one{
+    background-color: red;
+    height: 30vh;
+}
+.two{
+    background-color: #0a3622;
+    height: 30vh;
+}
+.three{
+    background-color: #2c0b0e;
+    height: 30vh;
+
+}
+.four{
+    background-color: #6f42c1;
+    height: 30vh;
+}
+.five{
+    background-color: violet;
+    height: 30vh;
+
+}

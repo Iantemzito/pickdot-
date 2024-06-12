@@ -1,0 +1,72 @@
+ h3{
+           color: coral;
+           font-size: 26px;
+           font-family: Ubuntu;
+           text-align: center;
+           text-decoration: underline;
+           margin-top: 50px;
+       }
+
+        body{
+           background-color: dimgray;
+            padding: 20px;
+        }
+         a{
+            margin: 20px;
+        }
+         h5{
+           margin-bottom: 30px;
+           text-align: left;
+           font-size: 24px;
+           color: gold;
+       }
+          p{
+          color: black;
+           text-align: justify;
+           font-size: 22px;
+           font-family: Navilu;
+           font-style: italic;
+       }
+           button{
+           padding: 10px;
+           background-color: ;
+           border-radius: 10px;
+       }
+             .simba{
+            background-color: aqua;
+            width: 80%;
+            margin: auto;
+            padding: 10%;
+            border: 20px red;
+        }
+             .chui{
+
+            background-color: darkviolet;
+            width: 80%;
+            margin: auto;
+            padding: 2px;
+        }
+             .marara{
+
+           background-color: indigo;
+            width: 80%;
+            margin: auto;
+            font-family: Nakula;
+
+        }
+ /*start of registration form*/
+form{
+    background-color: darkcyan;
+    width: 340px;
+    padding: 20px;
+    border-radius: 20px;
+}
+label{
+    color: darkgreen;
+}
+nav{
+    color: white;
+}
+
+
+
